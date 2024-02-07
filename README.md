@@ -5,8 +5,8 @@ Lexical Analysis (or Scanning):
 
 This step involves analyzing the stream of characters from the source code to identify meaningful lexical units (tokens), such as keywords, identifiers, operators, constants, etc.
 Characters are grouped into lexemes and associated with lexical symbols, such as tokens, which form the basis of syntactic analysis.
-Syntax Analysis (or Parsing):
-STEP 2: 
+
+STEP 2: Syntax Analysis (or Parsing):
 Syntax analysis involves analyzing the structure of the source code using a formal grammar.
 
 This project is equiped with a javaFx interface to make the user experience much easier.
